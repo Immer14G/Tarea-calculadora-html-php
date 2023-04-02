@@ -1,0 +1,18 @@
+<style>
+     a{
+
+    text-decoration: none;
+     color:rgb(201, 22, 22);
+     font-weight:aqua;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 20px;
+     }
+     a:hover{
+        color:rgb(30, 87, 210);
+     }
+    ul,li{
+        list-style: none;
+        display: inline;
+    }
+
+    </style>
